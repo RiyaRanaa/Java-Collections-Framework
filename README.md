@@ -1,6 +1,5 @@
 # Java-Collections-Framework
 
-# Collection Interface
 ArrayList
 
 Iterator
@@ -25,15 +24,11 @@ HashMap
 
 TreeMap
 
-Arrays Class
-
-Collections Class
+Classes: Arrays Class & Collections Class
 
 Sorting Custom Collections
 
-Comparable Interface
-
-Comparator Interface
+Collection Interface: Comparable Interface & Comparator Interface
 
 Here's a structured overview of the Java Collections Framework, focusing on each category and component:
 
