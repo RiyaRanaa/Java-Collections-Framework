@@ -1,35 +1,4 @@
 # Java-Collections-Framework
-
-ArrayList
-
-Iterator
-
-Stack
-
-Queue and LinkedList
-
-PriorityQueue
-
-ArrayDeque
-
-HashSet
-
-LinkedHashSet
-
-TreeSet
-
-Sets of Custom Classes (hashCode and equals)
-
-HashMap
-
-TreeMap
-
-Classes: Arrays Class & Collections Class
-
-Sorting Custom Collections
-
-Collection Interface: Comparable Interface & Comparator Interface
-
 # Here's a structured overview of the Java Collections Framework, focusing on each category and component:
 
 ### *1. List*
